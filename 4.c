@@ -20,7 +20,7 @@ printf("The range of integer data type is [%d,%d]\n",INT_MIN,INT_MAX);
 printf("The range of float data type is [%e,%e]\n",FLT_MIN,FLT_MAX);
 printf("The range of character data type is [%d,%d]\n",CHAR_MIN,CHAR_MAX);
 printf("The range of double data type is [%e,%e]\n",DBL_MIN,DBL_MAX);
-printf("The range of long data type is [%e,%e]\n",LONG_MIN,LONG_MAX;
+printf("The range of long data type is [%e,%e]\n",LONG_MIN,LONG_MAX);
 
 
 
